@@ -1,0 +1,12 @@
+Front: Who is the president?
+Back: Donald Trump
+Front: What is a Ute fan's favorite color?
+Back: red
+Front: What is the third planet from the sun?
+Back: Earth
+Front: Which planet has rings?
+Back: Saturn
+Front: How many horns does a unicorn have?
+Back: 1
+Front: Who is Mickey Mouse's girlfriend?
+Back: Minnie
